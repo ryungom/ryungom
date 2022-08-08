@@ -1,4 +1,21 @@
-### Hi there 👋
+## 반갑습니다, 주니어 프론트엔드 개발자, 류재준 입니다.👋
+꾸준한 커밋으로 러닝커브의 각도를 높이려는 개발자입니다.
+
+
+### ✨About Me
+```javascript
+const Contact = [
+  {
+    code: [
+            React, Javascript, JQuery, HTML, CSS, Sass, Tailwind 
+          ]
+    email: "ryungom@gmail.com",
+    twitter: "@ryungom",
+    blog: "https://ryungom.tistory.com](https://ryungom.tistory.com/",
+    youtube: "https://bit.ly/3JD6e48"
+  }
+]
+```
 
 <!--
 **ryungom/ryungom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
