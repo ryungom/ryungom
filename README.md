@@ -4,14 +4,14 @@
 
 ### ✨About Me
 ```javascript
-const Contact = [
+const aboutMe = [
   {
     code: [
             React, Javascript, JQuery, HTML, CSS, Sass, Tailwind 
           ]
     email: "ryungom@gmail.com",
     twitter: "@ryungom",
-    blog: "https://ryungom.tistory.com](https://ryungom.tistory.com/",
+    blog: "https://ryungom.tistory.com",
     youtube: "https://bit.ly/3JD6e48"
   }
 ]
