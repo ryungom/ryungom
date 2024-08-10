@@ -7,10 +7,10 @@
 const aboutMe = [
   {
     code: [
-            React, Javascript, JQuery, HTML, CSS, Sass, Tailwind 
+            React.js, Next.js, TypeScript, Javascript, HTML Living Standard, CSS, Sass, Tailwind 
           ]
-    email: "ryungom@gmail.com",
-    twitter: "@ryungom",
+    email: "ryungom.dev@gmail.com",
+    twitter(X): "@ryungom",
     blog: "https://ryungom.tistory.com",
     youtube: "https://bit.ly/3JD6e48"
   }
